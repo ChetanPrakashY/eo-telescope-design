@@ -1,0 +1,25 @@
+{
+ "first_order": {
+  "focal_length_m": 2.75,
+  "f_number": 9.166666666666668,
+  "primary_focal_length_m": 0.75,
+  "magnification": 3.6666666666666665,
+  "plate_scale_urad_per_px": 2.0,
+  "nyquist_cyc_mm": 90.90909090909092,
+  "optical_cutoff_cyc_mm": 167.83216783216778,
+  "airy_radius_um": 7.269166666666667,
+  "q_factor": 1.0833333333333335
+ },
+ "prescription": {
+  "R1": 1.5,
+  "R2": 0.5303571428571429,
+  "K1": -1.0514939605848697,
+  "K2": -3.5830829326923066,
+  "d": 0.5571428571428572,
+  "b": 0.15,
+  "secondary_dia": 0.07714285714285714
+ },
+ "checks": {
+  "coma_ratio_at_zero_field": 1.0009891898611118
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "chain": [
+  [
+   "bore in the primary bulkhead",
+   20
+  ],
+  [
+   "tube concentricity",
+   50
+  ],
+  [
+   "tube-to-bulkhead fit",
+   25
+  ],
+  [
+   "spider hub position",
+   25
+  ],
+  [
+   "mirror cell bore",
+   20
+  ],
+  [
+   "mirror in its cell",
+   25
+  ]
+ ],
+ "worst_case_um": 165,
+ "rss_um": 71.93747284969079,
+ "optics_allowance_um": 194.225830401319
+}

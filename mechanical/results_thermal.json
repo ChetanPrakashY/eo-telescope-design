@@ -1,0 +1,30 @@
+{
+ "allowed_defocus_um": 24.788217312814787,
+ "dof_classical_um": 109.23611111111114,
+ "rows": [
+  {
+   "material": "Aluminium 6061-T6",
+   "cte_ppm": 23.6,
+   "shift_um_per_K": -193.4281345418644,
+   "allowed_dT_K": 0.12815207762575911
+  },
+  {
+   "material": "Titanium Ti-6Al-4V",
+   "cte_ppm": 8.600000000000001,
+   "shift_um_per_K": -70.49396562803537,
+   "allowed_dT_K": 0.35163601723885063
+  },
+  {
+   "material": "Invar 36",
+   "cte_ppm": 1.3,
+   "shift_um_per_K": -10.656612136485924,
+   "allowed_dT_K": 2.3260879719873935
+  },
+  {
+   "material": "CFRP quasi-isotropic",
+   "cte_ppm": 1.0,
+   "shift_um_per_K": -8.197411269597382,
+   "allowed_dT_K": 3.0239079750395725
+  }
+ ]
+}

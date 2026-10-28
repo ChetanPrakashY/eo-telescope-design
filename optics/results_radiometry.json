@@ -1,0 +1,63 @@
+{
+ "t_line_us": 141.59679712675822,
+ "signal_per_stage_e": 2747.6033256001483,
+ "stages_needed": 4,
+ "rows": [
+  {
+   "stages": 1,
+   "signal_e": 2747.6033256001483,
+   "snr_ccd": 52.07752787123791,
+   "snr_cmos": 52.07752787123791,
+   "ccd_well_full_on_white": false
+  },
+  {
+   "stages": 4,
+   "signal_e": 10990.413302400593,
+   "snr_ccd": 104.66389462634183,
+   "snr_cmos": 104.15505574247582,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 8,
+   "signal_e": 21980.826604801186,
+   "snr_ccd": 148.13806218818365,
+   "snr_cmos": 147.29749242073504,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 16,
+   "signal_e": 43961.65320960237,
+   "snr_ccd": 209.5845477742071,
+   "snr_cmos": 208.31011148495165,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 32,
+   "signal_e": 87923.30641920475,
+   "snr_ccd": 296.45795849207843,
+   "snr_cmos": 294.5949848414701,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 64,
+   "signal_e": 175846.6128384095,
+   "snr_ccd": 419.29777033387677,
+   "snr_cmos": 416.6202229699033,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 96,
+   "signal_e": 263769.91925761424,
+   "snr_ccd": 513.5503131829604,
+   "snr_cmos": 510.25348140040944,
+   "ccd_well_full_on_white": true
+  },
+  {
+   "stages": 128,
+   "signal_e": 351693.225676819,
+   "snr_ccd": 593.0069387127537,
+   "snr_cmos": 589.1899696829402,
+   "ccd_well_full_on_white": true
+  }
+ ]
+}
