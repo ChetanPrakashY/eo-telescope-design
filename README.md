@@ -1,8 +1,8 @@
 # eo-telescope-design
 
 Design study of a 30 cm two-mirror telescope for 1 m ground sampling from a 500 km orbit: optical design and
-analysis in `optics/`, the structure that holds it in `mechanical/`. Everything is computed by the scripts here,
-and the two reports are filled in from their results.
+analysis in `optics/`, the structure that holds it in `mechanical/`. The reports are templates; `make_reports.py` writes
+the numbers in from each script's JSON output.
 
 | | Report | What is in it |
 |---|---|---|
@@ -24,6 +24,6 @@ Main findings:
 ./run_all.sh          # about a minute; numpy, scipy, matplotlib only
 ```
 
-Assumptions (detector, transmission, launch environment, machining tolerances) are marked TBC where they appear. The
+Detector, transmission, launch environment and machining tolerances are my assumptions (TBC in the code). The
 spider holding the secondary, the field corrector and a non-sequential stray-light analysis are the next steps and are
 not done here.

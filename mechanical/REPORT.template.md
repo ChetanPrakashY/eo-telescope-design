@@ -1,7 +1,7 @@
 # Mechanical design: holding the telescope in focus and in one piece
 
 The optics (`../optics/REPORT.md`) set the mechanical problem: keep the secondary mirror within tolerance of the
-primary through launch, gravity release and temperature changes, at the lowest mass. Numbers come from the scripts
+primary through launch, gravity release and temperature changes, at the lowest mass. The tables are written from the outputs of the scripts
 in this folder.
 
 ## 1. Thermal focus stability: the design driver

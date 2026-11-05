@@ -1,10 +1,10 @@
 # Optical design: 30 cm telescope for 1 m ground sampling from 500 km
 
-Every number here is produced by the scripts in this folder (`../run_all.sh` rebuilds them).
+Run `../run_all.sh` to regenerate this file; nothing in it is typed by hand.
 
 ## 1. Requirements
 
-From `requirements.py`. These are design choices for this study, not a real mission's numbers.
+From `requirements.py`. I picked these to be representative of a small Earth-observation satellite; no real mission is implied.
 
 | Item | Value | Reason |
 |---|---|---|
